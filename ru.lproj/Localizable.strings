@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  nsstring
+
+  Created by Yuriy Berdnikov on 10/11/12.
+*/
+
+/* a minute ago */
+"a minute ago" = "минуту назад";
+
+/* Text for minute (1, 21, 31) */
+"one min ago" = "минуту назад";
+
+/* Text for minute in range 2-4 */
+"2-4 min ago" = "минуты назад";
+
+/* Text for minute in range 5-10 */
+"5-10 min ago" = "минут назад";
+
+/* hour ago */
+"hour ago" = "час назад";
+
+/* Text for hour (1, 21, 31) */
+"one hour ago" = "час назад";
+
+/* Text for hour in range 2-4 */
+"2-4 hour ago" = "часа назад";
+
+/* Text for hour in range 5-10 */
+"5-10 hour ago" = "часов назад";
+
+/* yesterday */
+"yesterday" = "вчера";
+
+
+
